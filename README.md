@@ -8,7 +8,7 @@ My name is Matheus Ferreira Fernandes. I have experience with web development (L
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on ![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
