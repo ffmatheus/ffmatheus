@@ -1,7 +1,13 @@
 <div align="center">
   
-  # Hello, folks! <img src="https://c.tenor.com/ODuQGVni0DsAAAAC/luffy-hi.gif" width="30px">
+  # Hello, folks! 
 
+</div>
+
+<div align="center">
+
+  <img src="https://c.tenor.com/ODuQGVni0DsAAAAC/luffy-hi.gif" width="30px">
+  
 </div>
 
 My name is Matheus Ferreira Fernandes. I have experience with web development (Laravel) and i am currently working with back end development (python).
