@@ -10,7 +10,7 @@
   
 </div>
 
-My name is Matheus Ferreira Fernandes. I have experience with web development (Laravel) and i am currently working with back end development (python).
+My name is Matheus Ferreira Fernandes. I'm a backend developer (Python, Golang, PHP). 
 
 <div align="center">
 
