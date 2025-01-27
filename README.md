@@ -19,10 +19,3 @@ My name is Matheus Ferreira Fernandes. I'm a backend developer (Python, Golang, 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ffmatheus&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
-
-
-<div> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
